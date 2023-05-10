@@ -11,7 +11,10 @@
   - Настроена валидация поле UILabel-ов GropSize, InfectionFactor, Time.
   - Добавлена кнопка "случайного заполнения" данных.
   - Добавлена кнопка сброса
-
+# Работа проекта:
+![image](https://github.com/yg-margo/vk-virus-simulator/blob/main/gif/virus-gif-1.gif)
+# Валидация:
+![image](https://github.com/yg-margo/vk-virus-simulator/blob/main/gif/virus-gif-2.gif)
 
 # Virus Simulator:
 Симулятор распространения вируса
