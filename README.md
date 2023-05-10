@@ -16,6 +16,7 @@
 # Валидация:
 ![image](https://github.com/yg-margo/vk-virus-simulator/blob/main/gif/virus-gif-2.gif)
 
+# Итог в мемах для истинных разработчиков ленты:
 ![image](https://github.com/yg-margo/vk-virus-simulator/blob/main/gif/B46022D1-595C-40D9-A81D-570C04C94D83.jpeg)
 # Virus Simulator:
 Симулятор распространения вируса
